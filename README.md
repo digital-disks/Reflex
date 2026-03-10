@@ -7,7 +7,7 @@ Reflex is a lightweight, low-overhead recording and clipping software for Window
 ## Project Status
 Currently, Reflex is still being worked on for it to be stable and ready for future stable release, therefore it will be in the Beta Stage and closed source. Once the major flaws are handled and the software is polished, it will be open source.
 
-> _This project is maintained by a one man team so please be patient with me if some issues take too long to be resolved, plus I'm still learning C++ and this is basically my first project. Thank you :D_
+> _This project is made and maintained by a one man team so please be patient with me if some issues take too long to be resolved, plus I'm still learning C++ and this is basically my first project. Thank you :D_
 
 ## Software Features
 
