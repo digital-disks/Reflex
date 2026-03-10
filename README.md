@@ -1,5 +1,8 @@
 # Reflex
-A Recording and clipping software made for gamers. It's currently in Beta and soon will be Open Source so stay tuned!
+
+Reflex is a lightweight, low-overhead recording and clipping software for Windows. This project will soon be open source once enough recognition and the software is ready for stable releases.
+
+ Download Latest Release  |  Report a Bug  |  Donate / Support
 
 ## Legal & Third-Party Credits
 Reflex uses the following libraries:
@@ -8,12 +11,11 @@ Reflex uses the following libraries:
 
 This project uses FFmpeg libraries (libavcodec, libavformat, etc.) licensed under the LGPL v3.
 FFmpeg Version: 6.1
-Source Code: The exact source code for the version used in this project can be found at [ https://github.com/FFmpeg/FFmpeg/tree/release/6.1 ].
+Source Code: The exact source code for the version used in this project can be found at [ https://github.com/FFmpeg/FFmpeg/tree/release/6.1 ] and the link to the source code in a zip file will be here [  ].
 
 ### NVIDIA Video Codec SDK
 
-It is governed by the NVIDIA Video Codec SDK License Agreement. By using this software, you agree to comply with NVIDIA's terms,
-including the restriction to use the SDK only with supported NVIDIA GPU hardware.
+It is governed by the NVIDIA Video Codec SDK License Agreement. By using this software, you agree to comply with NVIDIA's terms, including the restriction to use the SDK only with supported NVIDIA GPU hardware.
 
 ### AMD AMF
 
