@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/github/v/release/digital-disks/Reflex?label=&labelColor=6f00ff&color=252525&style=flat-square&logo=github&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/%20-C%2B%2B-252525?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=4f00ff)
-[![Buy Me A Coffee](https://img.shields.io/badge/%20-Buy%20Me%20A%20Coffee-252525?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff&labelColor=4f00ff)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/%20-Buy%20Me%20A%20Coffee-252525?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff&labelColor=2f00ff)](https://www.buymeacoffee.com/yourusername)
 
 
 </p>
