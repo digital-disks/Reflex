@@ -1,4 +1,4 @@
-<h1> <p align="center"> Reflex </p> <h1/>
+# Reflex
 
 Reflex is a lightweight, low-overhead recording and clipping software for Windows. This project will soon be open source once enough recognition and the software is ready for stable releases.
 
