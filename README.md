@@ -2,9 +2,10 @@
 
 <p align="center">
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/digital-disks/Reflex?style=flat-square)
-![Windows](https://img.shields.io/badge/platform-Windows-0078d7?style=flat-square&logo=windows)
-![C++](https://img.shields.io/badge/language-C%2B%2B-00599c?style=flat-square&logo=c%2B%2B)
+![Version](https://img.shields.io/github/v/release/digital-disks/Reflex?label=&labelColor=6f00ff&color=252525&style=flat-square&logo=github&logoColor=ffffff)
+![C++](https://img.shields.io/badge/%20-C%2B%2B-252525?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=4f00ff)
+[![Buy Me A Coffee](https://img.shields.io/badge/%20-Buy%20Me%20A%20Coffee-252525?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff&labelColor=4f00ff)](https://www.buymeacoffee.com/yourusername)
+
 
 </p>
 
@@ -17,8 +18,14 @@ Currently, Reflex is still being worked on for it to be stable and ready for fut
 
 > _This project is made and maintained by a one man team so please be patient with me if some issues take too long to be resolved, plus I'm still learning C++ and this is basically my first project. Thank you :D_
 
-## Software Features
+## Software Features & Support
+Reflex includes these features:
 
+  - Recording: Reflex can recording your apps, games and displays.
+  - Instant Replay: A clipping mechanism to save the last couple of minutes of your game.
+  - Multi-Hardware Support: Reflex supports NVIDIA, AMD and Intel Hardware.
+  - No Accounts or Telementary: No account or data needed from you, a quick install and you are ready to go.
+  - No Ads or Subscriptions: Completely free and no Advertisements. (If you wanna support then you can donate to me through the links above)
 
 ## Legal & Third-Party Credits
 Reflex uses the following libraries:
