@@ -1,5 +1,5 @@
 # Reflex
-
+[]()
 Reflex is a lightweight, low-overhead recording and clipping software for Windows. This project will soon be open source once enough recognition and the software is ready for stable releases.
 
  [Download Latest Release](https://github.com/digital-disks/Reflex/releases)   |  [Report a Bug](https://github.com/digital-disks/Reflex/issues/new)  |  [Donate / Support](buymeacoffee.com/digitaldisks)
@@ -11,7 +11,7 @@ Reflex uses the following libraries:
 
 This project uses FFmpeg libraries (libavcodec, libavformat, etc.) licensed under the LGPL v3.
 FFmpeg Version: 6.1
-Source Code: The exact source code for the version used in this project can be found at [ https://github.com/FFmpeg/FFmpeg/tree/release/6.1 ] and the link to the source code in a zip file will be here [  ].
+Source Code: The exact source code for the version used in this project can be found [here](https://github.com/FFmpeg/FFmpeg/tree/release/6.1) and the link to the source code in a zip file will be [here](https://drive.google.com/file/d/15yn5AGnykKjtecSJzj0W-HrjrWnwJ7bP/view?usp=drive_link).
 
 ### NVIDIA Video Codec SDK
 
