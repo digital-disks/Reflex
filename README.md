@@ -25,12 +25,21 @@ Reflex includes these features:
   - No Accounts or Telementary: No account or data needed from you, a quick install and you are ready to go.
   - No Ads or Subscriptions: Completely free and no Advertisements. (If you wanna support then you can donate to me through the links above)
 
+## System Requirements
+Reflex requires the following minimum system requirements:
+
+  - Operating System: Windows 10 Build 1803 or higher (If you see a yellow border, you are running an older version and need to update)
+  - Processor: Any modern CPU
+  - Memory: 4 GB RAM (This is atleast to run both Reflex and your game/app)
+  - Graphics: Any integrated or dedicated graphics card
+  - DirectX: Version 11 or higher
+
 ## Current Limitations
 Sadly not everything is going to be perfect from the start, due to limitations I'm facing the libraries and APIs, here is the list of them:
 
-- Recording works only with Windowed and Borderless Fullscreen Modes only.
-- No DLL Injection to record Exclusive Fullscreen apps/games due to Anti-Cheat software for the safety of everyone using the app.
-- Some older games might not be able to be recorded due to how the window creation is coded.
+  - Recording works only with Windowed and Borderless Fullscreen Modes only.
+  - No DLL Injection to record Exclusive Fullscreen apps/games due to Anti-Cheat software for the safety of everyone using the app.
+  - Some older games might not be able to be recorded due to how the window creation is coded.
 
 With enough support, hopefully all these limitations will be gone and achive making the app with it's full potential :)
 
