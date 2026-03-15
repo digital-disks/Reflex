@@ -37,7 +37,7 @@ Reflex requires the following minimum system requirements:
 ## Current Limitations
 Sadly not everything is going to be perfect from the start, due to limitations I'm facing the libraries and APIs, here is the list of them:
 
-  - Recording works only with Windowed and Borderless Fullscreen Modes only.
+  - Recording Exclusive Fullscreen apps/games is inconsistant, Switch to Borderless Fullscreen/Borderless Windowed or capture the whole display.
   - No DLL Injection to record Exclusive Fullscreen apps/games due to Anti-Cheat software for the safety of everyone using the app.
   - Some older games might not be able to be recorded due to how the window creation is coded.
 
