@@ -14,7 +14,7 @@
 
 </p>
 
-
+# THIS REPO IS TO PUBLISH MY DEVELOPMENTS BUILDS FOR THE SAKE OF TESTING
 
 Reflex is a lightweight, low-overhead recording and clipping software for Windows. This project will soon be open source once it gains enough recognition and the software is ready for stable releases.
 
