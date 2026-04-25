@@ -38,9 +38,9 @@ Reflex includes these features:
 Reflex requires the following minimum system specifications:
 
 - **Operating System:** Windows 10 Build 1803 or higher (If you see a yellow border, you are running an older version).
-- **Processor:** Any modern CPU.
+- **Processor:** Any modern 64-bit CPU.
 - **Memory:** 4 GB RAM (This is the minimum required to run both Reflex and your game/app).
-- **Graphics:** Any integrated or dedicated graphics card.
+- **Graphics:** Any integrated or dedicated graphics card that has atleast 1GB of VRAM.
 - **DirectX:** Version 11 or higher.
 
 ## Current Limitations
