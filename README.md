@@ -55,11 +55,6 @@ With enough support, hopefully all these limitations will be resolved, achieving
 ## Legal & Third-Party Credits
 Reflex uses the following libraries:
 
-### FFmpeg
-This project uses FFmpeg libraries (libavcodec, libavformat, etc.) licensed under the LGPL v3.
-- **FFmpeg Version:** 6.1
-- **Source Code:** The exact source code for the version used in this project can be found [here](https://github.com/FFmpeg/FFmpeg/tree/release/6.1), and the link to the source code in a zip file can be found [here](https://drive.google.com/file/d/15yn5AGnykKjtecSJzj0W-HrjrWnwJ7bP/view?usp=drive_link).
-
 ### NVIDIA Video Codec SDK
 This is governed by the NVIDIA Video Codec SDK License Agreement. By using this software, you agree to comply with NVIDIA's terms, including the restriction to use the SDK only with supported NVIDIA GPU hardware.
 
