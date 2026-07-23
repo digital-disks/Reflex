@@ -16,8 +16,7 @@ Reflex is a lightweight, low-overhead recording and clipping software for Window
 
 
 <p align="center"> <a href="https://github.com/digital-disks/Reflex/releases">
-  <img width="250" height="50" alt="download-banner" src="https://github.com/user-attachments/assets/0e192307-c2ea-4b71-bad4-ed6347ea7d61"/>
-</a> <a href="https://github.com/digital-disks/Reflex/issues/new"> <img width="250" height="50" alt="report-banner" src="https://github.com/user-attachments/assets/7194ff84-37d3-4a1e-a946-256a297ac8bd"/> </a> <a href="https://buymeacoffee.com/digitaldisks"> <img width="250" height="50" alt="donate-banner" src="https://github.com/user-attachments/assets/a65e740a-7b48-44b8-8fe5-d190bc0fa908"/>
+  <img width="250" height="50" alt="download-banner" src="https://github.com/user-attachments/assets/0e192307-c2ea-4b71-bad4-ed6347ea7d61"/></a> <a href="https://github.com/digital-disks/Reflex/issues/new"> <img width="250" height="50" alt="report-banner" src="https://github.com/user-attachments/assets/7194ff84-37d3-4a1e-a946-256a297ac8bd"/></a> <a href="https://buymeacoffee.com/digitaldisks"> <img width="250" height="50" alt="donate-banner" src="https://github.com/user-attachments/assets/a65e740a-7b48-44b8-8fe5-d190bc0fa908"/></a>
  </p>
 
 ## Project Status
