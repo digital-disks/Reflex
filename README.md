@@ -14,7 +14,8 @@
 
 Reflex is a lightweight, low-overhead recording and clipping software for Windows. This project will soon be open source once it gains enough recognition and the software is ready for stable releases.
 
-[Download Latest Release](https://github.com/digital-disks/Reflex/releases) | [Report a Bug](https://github.com/digital-disks/Reflex/issues/new) | [Donate / Support](https://buymeacoffee.com/digitaldisks)
+
+<p align="center"> [Download Latest Release](https://github.com/digital-disks/Reflex/releases) | [Report a Bug](https://github.com/digital-disks/Reflex/issues/new) | [Donate / Support](https://buymeacoffee.com/digitaldisks) </p>
 
 ## Project Status
 Currently, Reflex is still being worked on to ensure stability for future releases; therefore, it remains in the Beta stage and closed source. Once the major flaws are resolved and the software is polished, it will become open source.
